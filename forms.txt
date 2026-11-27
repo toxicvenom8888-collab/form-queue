@@ -1,4 +1,3 @@
-https://www.cognitoforms.com/AdeccoOnboarding/WelcomeForm
 https://www.cognitoforms.com/AdeccoCareers120/WelcomeForm
 https://www.cognitoforms.com/AdeccoJob12/WelcomeForm
 https://www.cognitoforms.com/AdeccoJob13/WelcomeForm
